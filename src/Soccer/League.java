@@ -26,6 +26,7 @@ public class League extends Extractor{
 		this.name=name;
 		this.totalRounds=totalRounds;
 		this.currentRound=currentRound;
+		
 	}
 	
 	public League(){}
